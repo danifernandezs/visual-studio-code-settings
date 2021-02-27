@@ -17,4 +17,4 @@ At each OS
 - Error Lens
 - Git Lens
 - hadolint
-- ident-rainbow
+- indent-rainbow
