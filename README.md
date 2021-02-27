@@ -12,8 +12,9 @@ At each OS
 
 ## Extesions List
 
-- 
-- 
-- 
-- 
-- 
+- Bracket Pair Colorizer 2
+- Docker
+- Error Lens
+- Git Lens
+- hadolint
+- ident-rainbow
