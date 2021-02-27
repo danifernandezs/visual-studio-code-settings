@@ -1,4 +1,5 @@
 {
+    "window.zoomLevel": 1,
     "files.eol": "\n",
 // AutoSaving, every minute
     "files.autoSave": "afterDelay",
