@@ -1,0 +1,25 @@
+
+{
+    "files.eol": "\n",
+// AutoSaving, every minute
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 60000,
+// Tab to spaces
+    "editor.tabSize": 2,
+// Show white character, everytime
+    "editor.renderWhitespace": "all",
+    "editor.insertSpaces": true,
+// blinking cursor
+    "editor.cursorStyle": "line",
+// MultiCursor
+    "editor.multiCursorModifier": "alt",
+// Font Size
+    "editor.fontSize": 14,
+// Enable/Disable the Preview
+    "workbench.editor.enablePreview": true,
+// Rigth minimap Size
+    "editor.minimap.scale": 2,
+    "editor.minimap.showSlider": "always",
+// Insert new line at the document final, ever
+    "files.insertFinalNewline": true
+}
