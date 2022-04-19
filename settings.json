@@ -32,5 +32,13 @@
     "workbench.editor.showTabs": true,
 // Disabling the telemetry, Sorry Bill
     "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false
+    "telemetry.enableTelemetry": false,
+// Native Bracket Colorizer
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active",
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.guides.highlightActiveBracketPair": true,
+// Enabling Better Comments (can be configured all the keychars)
+    "better-comments.multilineComments": true,
+    "better-comments.highlightPlainText": false
 }
