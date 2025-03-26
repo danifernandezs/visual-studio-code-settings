@@ -1,5 +1,5 @@
 {
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "files.eol": "\n",
 // AutoSaving, every minute
     "files.autoSave": "afterDelay",
@@ -22,17 +22,18 @@
     "editor.minimap.showSlider": "always",
 // Insert new line at the document final, ever
     "files.insertFinalNewline": true,
-// Left Activity Bar
-    "workbench.activityBar.visible": true,
+// Left (Default) Activity Bar
+    "workbench.activityBar.location": "default",
 // Color Theme
     "workbench.colorTheme": "Monokai Dimmed",
 // Status Bar
     "workbench.statusBar.visible": true,
 // Upper tabs
-    "workbench.editor.showTabs": true,
+    "workbench.editor.showTabs": "multiple",
 // Disabling the telemetry, Sorry Bill
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
+    "telemetry.telemetryLevel": "off",
+// Disabling the GitLens telemetry
+    "gitlens.telemetry.enabled": false,
 // Native Bracket Colorizer
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs":"active",
@@ -40,5 +41,5 @@
     "editor.guides.highlightActiveBracketPair": true,
 // Enabling Better Comments (can be configured all the keychars)
     "better-comments.multilineComments": true,
-    "better-comments.highlightPlainText": false
+    "better-comments.highlightPlainText": false,
 }
