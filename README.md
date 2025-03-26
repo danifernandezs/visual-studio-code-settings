@@ -14,7 +14,7 @@ At each OS
 
 - Docker
 - Error Lens
-- Git Lens
+- GitLens
 - hadolint
 - indent-rainbow
 - Better Comments
